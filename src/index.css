@@ -15,3 +15,7 @@ code {
 * {
   text-align: center;
 }
+
+div {
+  display: block;
+}
